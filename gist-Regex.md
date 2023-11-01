@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex basic tutorial
 
 This guide aims to provide a clear explanation of regular expressions (Regex) and how to utilize them. Regular expressions are a powerful tool for identifying specific patterns of characters within a text. They are invaluable for tasks like extracting information from text or validating input. In this tutorial, we'll focus on a practical example of using regular expressions to match an email address. We'll break down the various components that make up regular expressions for a better understanding.
 
